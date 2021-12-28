@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tessaRuckstuhl
+👋 Hi, I’m @tessaRuckstuhl
 
 
 <!---
